@@ -28,7 +28,7 @@ This is a small C# .net core application we developed and is an appointment sche
 
 **Goal**
 
-We want to try to process all customers and have our tellers go home as early as possible. All the tellers will leave together once the last customer has been processed. Therefore, your results will **NOT** be measured accordingly to the total number of time the tellers spend with customers but when the last customer is processed.
+We want to try to process all customers and have our tellers go home as early as possible. All the tellers will leave together once the last customer has been processed. Therefore, your results will **NOT** be measured according to the total number of time the tellers spend with customers but when the last customer is processed.
 
 **Submission**
 
