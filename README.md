@@ -32,7 +32,7 @@ We want to try to process all customers and have our tellers go home as early as
 
 **Submission**
 
-Please create a git repository and email a read access link to RigsentryCodeChallenge@gmail.com.
+Create a git repository with your solution and resume.Then please email us a read access link to RigsentryCodeChallenge@gmail.com.
 
 Thank you and good luck!
 
