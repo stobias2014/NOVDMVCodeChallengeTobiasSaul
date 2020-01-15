@@ -757,11 +757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mensinkja\\Documents\\Projects\\Interviews\\Code Challenge\\DMV Code Challenge\\DmvAppointmentScheduler\\DmvAppointmentScheduler\\DmvAppointmentScheduler.csproj",
+      "projectUniqueName": "C:\\Users\\mensinkja\\Documents\\Projects\\Interviews\\Code Challenge\\DMV Code Challenge\\dmvcodechallenge\\DmvAppointmentScheduler\\DmvAppointmentScheduler.csproj",
       "projectName": "DmvAppointmentScheduler",
-      "projectPath": "C:\\Users\\mensinkja\\Documents\\Projects\\Interviews\\Code Challenge\\DMV Code Challenge\\DmvAppointmentScheduler\\DmvAppointmentScheduler\\DmvAppointmentScheduler.csproj",
+      "projectPath": "C:\\Users\\mensinkja\\Documents\\Projects\\Interviews\\Code Challenge\\DMV Code Challenge\\dmvcodechallenge\\DmvAppointmentScheduler\\DmvAppointmentScheduler.csproj",
       "packagesPath": "C:\\Users\\mensinkja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mensinkja\\Documents\\Projects\\Interviews\\Code Challenge\\DMV Code Challenge\\DmvAppointmentScheduler\\DmvAppointmentScheduler\\obj\\",
+      "outputPath": "C:\\Users\\mensinkja\\Documents\\Projects\\Interviews\\Code Challenge\\DMV Code Challenge\\dmvcodechallenge\\DmvAppointmentScheduler\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

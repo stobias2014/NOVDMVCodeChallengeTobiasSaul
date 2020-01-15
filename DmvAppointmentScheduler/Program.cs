@@ -39,10 +39,10 @@ namespace DmvAppointmentScheduler
         static void Calculation(CustomerList customers, TellerList tellers)
         {
             // Your code goes here .....
-            // Re-write this method to be more efficient instead of a random assignment
+            // Re-write this method to be more efficient instead of a assigning all customers to the same teller
             foreach(Customer customer in customers.Customer)
             {
-                var appointment = new Appointment(customer, tellers.Teller[random.Next(150)]);
+                var appointment = new Appointment(customer, tellers.Teller[0]);
                 appointmentList.Add(appointment);
             }
         }
