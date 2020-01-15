@@ -27,9 +27,11 @@ This is a small C# .net core application we developed and is an appointment sche
 - 	Do **NOT** change Customer or Teller JSON Data or the how the output is calculated (Needs to output the teller with the longest duration and the total duration). However, refactor of the code is strongly encouraged.
 
 **Goal**
+
 We want to try to process all customers and have our tellers go home as early as possible. All the tellers will leave together once the last customer has been processed. Therefore, your results will **NOT** be measured accordingly to the total number of time the tellers spend with customers but when the last customer is processed.
 
 **Submission**
+
 Please create a git repository and email a read access link to RigsentryCodeChallenge@gmail.com.
 
 Thank you and good luck!
