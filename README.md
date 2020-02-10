@@ -2,7 +2,8 @@
 
 ### **Overview**
 This is a small C# .net core application we developed and is an appointment scheduler for the Department of Motor Vehicles (DMV). The application reads in data for customers and all customers to a single Teller.
- *Customer*
+
+*Customer*
 
 *	5,000 Total
 - Available Data:
