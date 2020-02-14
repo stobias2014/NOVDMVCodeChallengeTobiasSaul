@@ -1,9 +1,9 @@
 # DMV Code Challenge
 
 ### **Overview**
-This is a small C# .net core application we developed and is an appointment scheduler for the Department of Motor Vehicles (DMV). The application reads in data for customers and randomly assigns a customer to a random teller.  Your mission, if you choose to accept, is to create an algorithm that more efficiently assigns customers to tellers.
+This is a small C# .net core application we developed and is an appointment scheduler for the Department of Motor Vehicles (DMV). The application reads in data for customers and all customers to a single Teller.
 
- *Customer*
+*Customer*
 
 *	5,000 Total
 - Available Data:
@@ -32,7 +32,7 @@ We want to try to process all customers and have our tellers go home as early as
 
 **Submission**
 
-Please create a git repository and email a read access link to RigsentryCodeChallenge@gmail.com.
+Create a git repository with your solution and resume.Then please email us a read access link to RigsentryCodeChallenge@gmail.com.
 
 Thank you and good luck!
 
