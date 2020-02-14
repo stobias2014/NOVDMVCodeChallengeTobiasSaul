@@ -1,7 +1,8 @@
 # DMV Code Challenge
 
 ### **Overview**
-This is a small C# .net core application we developed and is an appointment scheduler for the Department of Motor Vehicles (DMV). The application reads in data for customers and all customers to a single Teller.
+This is a small C# .net core application we developed and is an appointment scheduler for the Department of Motor Vehicles (DMV). The application reads in data for customers and assigns all customers to a single Teller. (which is ineffecient)
+Your mission, if you choose to accept, is to create a more effecient algothrim to give each customer an appointment with a teller.
 
 *Customer*
 
