@@ -1,7 +1,12 @@
 ﻿/*
  Start output: Teller 9001238456 will work for 83718 minutes!
 
- Refactored Output: Teller 9001238456 will work for 29198 minutes! 
+ Refactored Outputs:
+ Teller 9001238600 will work for 845 minutes!
+ Teller 9001238494 will work for 951 minutes!
+ Teller 9001238584 will work for 898 minutes!
+ Teller 9001238604 will work for 865 minutes!
+ Teller 9001238557 will work for 981 minutes!
  */
 
 
