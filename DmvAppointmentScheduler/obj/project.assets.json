@@ -751,30 +751,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mensinkja\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/saultobias/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mensinkja\\OneDrive - National Oilwell Varco\\OneDDocuments\\Projects\\Interviews\\Code Challenge\\DMV Code Challenge\\dmvcodechallenge\\DmvAppointmentScheduler\\DmvAppointmentScheduler.csproj",
+      "projectUniqueName": "/Users/saultobias/Desktop/dmvcodechallenge_Tobias_Saul_Solution/DmvAppointmentScheduler/DmvAppointmentScheduler.csproj",
       "projectName": "DmvAppointmentScheduler",
-      "projectPath": "C:\\Users\\mensinkja\\OneDrive - National Oilwell Varco\\OneDDocuments\\Projects\\Interviews\\Code Challenge\\DMV Code Challenge\\dmvcodechallenge\\DmvAppointmentScheduler\\DmvAppointmentScheduler.csproj",
-      "packagesPath": "C:\\Users\\mensinkja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mensinkja\\OneDrive - National Oilwell Varco\\OneDDocuments\\Projects\\Interviews\\Code Challenge\\DMV Code Challenge\\dmvcodechallenge\\DmvAppointmentScheduler\\obj\\",
+      "projectPath": "/Users/saultobias/Desktop/dmvcodechallenge_Tobias_Saul_Solution/DmvAppointmentScheduler/DmvAppointmentScheduler.csproj",
+      "packagesPath": "/Users/saultobias/.nuget/packages/",
+      "outputPath": "/Users/saultobias/Desktop/dmvcodechallenge_Tobias_Saul_Solution/DmvAppointmentScheduler/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mensinkja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/saultobias/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -816,7 +814,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
       }
     }
   }

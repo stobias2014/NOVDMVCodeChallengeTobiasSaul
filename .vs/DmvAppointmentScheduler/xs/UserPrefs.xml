@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C9E9B5E1-BE8A-41D4-A320-2601C3B98F64}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DmvAppointmentScheduler/Program.cs">
+    <Files>
+      <File FileName="DmvAppointmentScheduler/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DmvAppointmentScheduler" expanded="True">
+            <Node name="DmvAppointmentScheduler" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DmvAppointmentScheduler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
